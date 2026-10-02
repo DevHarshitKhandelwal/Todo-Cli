@@ -2,7 +2,7 @@
 
 A lightweight command-line interface (CLI) application built with Node.js to manage your daily tasks efficiently right from your terminal.
 
-Project_URL:https://roadmap.sh/projects/task-tracker
+Project_URL: https://github.com/DevHarshitKhandelwal/Todo-Cl
 
 ---
 
